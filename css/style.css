@@ -1,0 +1,24 @@
+.container {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  #cronometro {
+    font-size: 48px;
+    text-align: center;
+  }
+  
+  button {
+    margin-top: 10px;
+    font-size: 24px;
+  }
+
+  .caja{
+    background-color:grey;
+      border-radius: 45px;
+      border: 2px solid rgba(0, 0, 0, 0.915);
+  }
+
+  body{
+    background: url(/img/images.png);
+  }
