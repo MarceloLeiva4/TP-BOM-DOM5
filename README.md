@@ -23,5 +23,5 @@ En la terminar colocar el siguiente comando
 
 git clone https://github.com/MarceloLeiva4/TP-BOM-DOM5
 
-Autor
+Autor:
 Marcelo Gabriel Leiva - Estudiante de Ingenieria en Sistemas de Informacion en UTN - Becado Beca Full Stack Rolling Code School
